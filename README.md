@@ -1,0 +1,2 @@
+# PHP Division by Zero Bug
+This repository demonstrates a common error in PHP: improper handling of division by zero. The `foo` function incorrectly returns 0 when either `a` or `b` is 0.  The solution demonstrates safe handling using a conditional check. 
